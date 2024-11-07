@@ -19,7 +19,7 @@ border: 1px solid #333333;
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('H:/Desktop/Website/1015411.jpg');
+        url('./IMG_0139.gif');
     height: 100vh;
     background-size: cover;
     background-position: center;
