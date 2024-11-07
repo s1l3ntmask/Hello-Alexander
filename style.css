@@ -12,4 +12,17 @@ a {
 border: solid 2px red;
 color: black;
 background-color: red;
+text-decoration: none;
+padding: 0.5rem;
+border: 1px solid #333333;
+}
+
+.header {
+    background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
+        url('H:/Desktop/Website/1015411.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-size: var(--font-size-normal);
 }
